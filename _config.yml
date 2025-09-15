@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: emmanuelflix
+title: emmanuelflix | A blog theme for Jekyll
+description: peliculas favoritas
 tags:
   - blog
   - template
@@ -19,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email:250300497@ucaribe.edu.mx
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -29,12 +28,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: emmanuelduran12
+facebook_username: emmanuel123
+twitter_username: emmanuelxduran
+instagram_username: emitokki
+linkedin_username: emmanuelduran19
+medium_username: emmanuelcruz56
 
 
 # Posts Settings
