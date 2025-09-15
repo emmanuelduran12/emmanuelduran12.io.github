@@ -18,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email:250300497@ucaribe.edu.mx
+email: 250300497@ucaribe.edu.mx
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
